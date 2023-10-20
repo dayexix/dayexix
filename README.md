@@ -24,7 +24,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/김다예@sycfqrib-the-sans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="김다예@sycfqrib-the-sans" height="30" width="40" /></a>
 <a href="https://instagram.com/_dayexix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dayexix" height="30" width="40" /></a>
 </p>
 
