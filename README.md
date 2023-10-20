@@ -1,3 +1,16 @@
+# 웹퍼블리셔 지망생: 김 다예
+## I aspire to become a prospective web publishier.
+깃허브 프로필 소개입니다.
+
+경력과 skill & tool, 포트폴리오 등의 소개가 있습니다.
+
+### 기본정보
+- 1997.4.22
+- 경기도 거주
+- 여자
+- ESFP
+
+
 <h1 align="center">Hi 👋, I'm 김 다예</h1>
 <h3 align="center">웹 디자인의 아름다움을 코드로 구현하는 것을 즐기는 웹 퍼블리셔</h3>
 
